@@ -1,3 +1,15 @@
+## Pull requests are welcome!
+
+This is a Form component written in React Typescript and supports context API, form validation and submission. The project was created following the step-by-step guide by [@carlrip](https://github.com/carlrip):
+
+- [Building a React Form Component with TypeScript : Introduction](https://www.carlrippon.com/building-react-form-compontent/)
+- [Building a React Form Component with TypeScript: The Basics](https://www.carlrippon.com/building-super-simple-react-form-component-typescript-basics/)
+- [Building a React Form Component with TypeScript: Sharing State via Context API](https://www.carlrippon.com/building-react-form-component-typescript-basics/)
+- [Building a React Form Component with TypeScript: Validation](https://www.carlrippon.com/building-a-react-form-component-with-typescript-validation/)
+- [Building a React Form Component with TypeScript: Submitting](https://www.carlrippon.com/building-a-react-form-component-with-typescript-submitting/)
+
+The [original project](https://github.com/carlrip/SimpleReactFormComponent) had some compile and run-time errors - so I decided to correct them and create this workeable sample.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
